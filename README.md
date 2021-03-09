@@ -6,7 +6,7 @@
     <br/>
     \[2021.03\~Present\] Research Intern at NLP&AI LAB @Korea Univ.
     <br/>
-    \[2020.01\~2020.12\] Research Intern at AIBI LAM @Ewha W. Univ.
+    \[2020.01\~2020.12\] Research Intern at AIBI LAB @Ewha W. Univ.
 <br/>
 <br/>
 
