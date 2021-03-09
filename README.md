@@ -11,11 +11,14 @@
 <br/>
 
 - 🤔 I’m interested in ...
+    <br/>
     Natural Language Processing
 <br/>
 <br/>
 
 - 📫 How to reach me: ...
+
+    <br/>
     [handsuhyun@gmail.com](handsuhyun@gmail.com)
     
 
