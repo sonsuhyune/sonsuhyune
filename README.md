@@ -18,7 +18,6 @@
 
 - 📫 How to reach me: ...
 
-    <br/>
     [handsuhyun@gmail.com](handsuhyun@gmail.com)
     
 
